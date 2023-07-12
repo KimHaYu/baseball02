@@ -15,4 +15,8 @@ public class Player {
     private String playerName;
     private String position;
     private Timestamp playerCreatedAt;
+
+    public String getName() {
+        return null;
+    }
 }

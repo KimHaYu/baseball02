@@ -14,4 +14,12 @@ public class Team {
     private Integer stadiumId;
     private String teamName;
     private Timestamp teamCreatedAt;
+
+    public String getName() {
+        return null;
+    }
+
+    public String getPlayerPosition() {
+        return null;
+    }
 }
